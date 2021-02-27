@@ -1,6 +1,6 @@
 clear
 echo "welcome to Unos "
-echo "Installing > Fedora : Nethunter"
+echo "Installing > Fedora"
 printf 'Press enter to continue ' && read enter
 echo "Updating and upgrading "
 pkg update -y && pkg upgrade -y
